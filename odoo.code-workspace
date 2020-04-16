@@ -19,7 +19,7 @@
 			"--load-plugins",
 			"pylint_odoo"
 		],
-		"python.formatting.provider": "black",
+		"python.formatting.provider": "yapf",
 		//"python.formatting.yapfPath": "optional: path to python use if you have environment path",
 		// "python.linting.pycodestylePath": "optional: path to python use if you have environment path",
 		"python.linting.pycodestyleEnabled": false,
@@ -31,7 +31,8 @@
 		"files.exclude": {
 			"**/*.pyc": {"when": "$(basename).py"}, 
 			"**/__pycache__": true
-		}
+		},
+		"python.pythonPath": "/home/mreisenhofer/.local/share/virtualenvs/odoo-sh-HJrdODJK/bin/python"
 
 	}
 }

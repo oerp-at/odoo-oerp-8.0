@@ -4,7 +4,9 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
-pycodestyle = "*"
+pylint = "==1.8.4"
+pylint-odoo = "==2.0.2"
+yapf = "*"
 
 [packages]
 appdirs = "==1.4.3"
@@ -22,15 +24,15 @@ cryptography = "==2.8"
 dateparser = "==0.7.2"
 decorator = "==4.4.1"
 defusedxml = "==0.6.0"
-docutils = "==0.15.2"
+docutils = "==0.14"
 enum34 = "==1.1.6"
 feedparser = "==5.2.1"
 funcsigs = "==1.0.2"
 functools32 = "==3.2.3.post2"
 gdata = "==2.0.18"
-gevent = "==1.2.2"
+gevent = "==1.0.2"
 python-gnupg = "==0.4.5"
-greenlet = "==0.4.15"
+greenlet = "==0.4.7"
 idna = "==2.8"
 importlib-metadata = "==0.23"
 ipaddress = "==1.0.23"
@@ -115,6 +117,7 @@ sqlalchemy = "*"
 crypto = "*"
 pyopenssl = "*"
 woocommerce = "*"
+simple-salesforce = "==0.75.3"
 
 [requires]
 python_version = "2.7"
