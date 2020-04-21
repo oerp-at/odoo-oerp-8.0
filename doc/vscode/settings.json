@@ -1,3 +1,6 @@
 {
-    "python.pythonPath": "/home/FUNET/martin/.local/share/virtualenvs/odoo-oerp-8.0-ZEed8wsv/bin/python"
+    "python.pythonPath": "/home/FUNET/martin/.local/share/virtualenvs/odoo-oerp-8.0-ZEed8wsv/bin/python",
+    "python.autoComplete.extraPaths": [
+        "/home/FUNET/martin/.local/share/virtualenvs/odoo-oerp-8.0-ZEed8wsv/bin/python"
+    ]
 }
