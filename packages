@@ -15,6 +15,7 @@ libffi-dev
 libfontconfig-dev
 libfreetype6-dev
 libssl-dev
+libsasl2-dev
 libldap-dev
 libxml2-dev
 libxslt1-dev
