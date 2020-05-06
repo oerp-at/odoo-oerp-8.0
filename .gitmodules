@@ -1,12 +1,12 @@
 [submodule "odoo"]
 	path = odoo
-	url = git@github.com:oerp-at/odoo.git
+	url = https://github.com/oerp-at/odoo.git
 	branch = 8.0-oerp
 [submodule "addons-oerp"]
 	path = addons-oerp
-	url = git@github.com:oerp-at/addons-oerp.git
+	url = https://github.com/oerp-at/addons-oerp.git
 	branch = 8.0-oerp
 [submodule "addons-util"]
 	path = addons-util
-	url = git@github.com:oerp-at/addons-util.git
+	url = https://github.com/oerp-at/addons-util.git
 	branch = 8.0-oerp
