@@ -15,6 +15,16 @@
 	// 	],
 	// 	"description": "Log output to console"
 	// }
+	"python_funkring": {
+        "prefix": "pyfr",
+        "scope": "python",
+        "body": [
+            "# -*- coding: utf-8 -*--",
+            "# © 2017 Funkring.net (Martin Reisenhofer <martin.reisenhofer@funkring.net>)",
+            "# License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl).",
+            "$0"
+        ]
+    },
 	"odoo8_wizard_xml": {
 		"prefix": "o8wiz",
 		"scope": "xml",
