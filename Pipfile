@@ -118,6 +118,7 @@ crypto = "*"
 pyopenssl = "*"
 woocommerce = "*"
 simple-salesforce = "==0.75.3"
+wand = "*"
 
 [requires]
 python_version = "2.7"
