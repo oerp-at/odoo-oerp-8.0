@@ -10,3 +10,7 @@
 	path = addons-util
 	url = https://github.com/oerp-at/addons-util.git
 	branch = 8.0-oerp
+[submodule "addons-web"]
+	path = addons-web
+	url = https://github.com/oerp-at/addons-web.git 
+	branch = 8.0-oerp
