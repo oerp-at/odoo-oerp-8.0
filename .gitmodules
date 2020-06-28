@@ -14,3 +14,7 @@
 	path = addons-web
 	url = https://github.com/oerp-at/addons-web.git 
 	branch = 8.0-oerp
+[submodule "addons-bank-statement-import"]
+	path = addons-bank-statement-import
+	url = https://github.com/oerp-at/addons-bank-statement-import.git
+	branch = 8.0-oerp
