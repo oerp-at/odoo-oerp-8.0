@@ -6,7 +6,7 @@ verify_ssl = true
 [dev-packages]
 pylint = "==1.8.4"
 pylint-odoo = "==2.0.2"
-yapf = "*"
+yapf = "==0.29.0"
 
 [packages]
 appdirs = "==1.4.3"
@@ -111,14 +111,14 @@ PyWebDAV = "==0.9.8"
 PyYAML = "==3.11"
 Werkzeug = "==0.16.0"
 XlsxWriter = "==1.2.5"
-pycairo = "*"
-iso8601 = "*"
-sqlalchemy = "*"
-crypto = "*"
-pyopenssl = "*"
-woocommerce = "*"
+pycairo = "==1.18.2"
+iso8601 = "==0.1.12"
+sqlalchemy = "==1.3.17"
+crypto = "==1.4.1"
+pyopenssl = "==19.1.0"
+woocommerce = "==2.1.1"
 simple-salesforce = "==0.75.3"
-wand = "*"
+wand = "==0.6.1"
 
 [requires]
 python_version = "2.7"
